@@ -38,6 +38,6 @@ YummyBites is an elegant, user-friendly recipe discovery platform that connects 
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live website](https://alyaa1234.github.io/Yummy/)
+[🔗 Click here to view the live website](https://alyaahussein-coding.github.io/Yummy/)
 
 ---
